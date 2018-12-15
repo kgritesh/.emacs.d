@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ eval-buffer
+ list-packages
+ helm-multi-files
+ package-install
+ package-reinstall
+ package-refresh-contents
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 16)
+ (package-install . 3)
+ (package-reinstall . 2)
+ (package-refresh-contents . 1)
+ (helm-multi-files . 1)
+ (list-packages . 1)
+)

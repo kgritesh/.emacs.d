@@ -1,0 +1,36 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/riteshkadmawala/" . ".emacs.d/")
+ ("/Users/riteshkadmawala/.emacs.d/" . "config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/riteshkadmawala/.emacs.d/config/"
+ "/Users/riteshkadmawala/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "helm.el"
+ "packages.el"
+ "keybinding.el"
+ "config.el"
+ "repos.el"
+ "init.el"
+ "load-directory.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/riteshkadmawala/.emacs.d/config/" (22809 37869 0 0) "packages.el" "keybinding.el" "helm.el" "config.el" "../" "./")
+
+ ("/Users/riteshkadmawala/.emacs.d/" (22809 37246 0 0) "smex-items" "load-directory.el" "init.el~" "init.el" "ido.last" "elpa/" "config/" "backups/" "auto-save-list/" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/riteshkadmawala/" (22809 32691 0 0) "watchers.xml" "untitled folder/" "resume.log" "redis.log" "Public/" "Projects/" "Pictures/" "nltk_data/" "Music/" "Movies/" "loanzen-dealer.keystore" "Library/" "genymotion-log.zip" "Final Video.mp4" "Downloads/" "Documents/" "Desktop/" "Applications/" "930388-dd2fd8f0b5aca6148742af5d8a153ed5.docx" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Ritesh’s MacBook Pro-5.3.1" ".zcompdump-Ritesh’s MacBook Pro-5.2" ".zcompdump" ".yarnrc" ".yarn/" ".vscode-react-native/" ".vscode/" ".virtualenvs/" ".viminfo" ".Trash/" ".tox/" ".terraform.d/" ".subversion/" ".ssh/" ".s3cfg" ".rnd" ".rediscli_history" ".rbenv/" ".pypirc" ".pyenv/" ".psql_history" ".pry_history" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".node_repl_history" ".node-gyp/" ".netrc" ".matplotlib/" ".m2/" ".local/" ".lobo/" ".lesshst" ".lein/" ".jupyter/" ".ipython/" ".hyperterm_plugins/" ".hyper_plugins/" ".hyper.js" ".histfile" ".hgrc" ".heroku/" ".gradle/" ".glide/" ".gitignore" ".gitconfig" ".git_commit_msg.txt~" ".git_commit_msg.txt" ".git-credentials" ".Genymobile/" ".gemrc" ".gem/" ".fastlane/" ".ethash/" ".emulator_console_auth_token" ".emacs~" ".emacs.d/" ".DS_Store" ".dlv/" ".cookiecutters/" ".cookiecutter_replay/" ".config/" ".code-push.config" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bashrc" ".bash_history" ".babel_history" ".babel.json" ".aws/" ".atom/" ".apex/" ".ansible_galaxy" ".ansible/" ".AndroidStudio2.1/" ".AndroidStudio2.0/" ".android/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
